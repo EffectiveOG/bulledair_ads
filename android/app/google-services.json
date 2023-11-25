@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839166887079",
+    "project_id": "reelpub",
+    "storage_bucket": "reelpub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839166887079:android:74d40fe5e6992c57c84782",
+        "android_client_info": {
+          "package_name": "com.example.bulledair_ads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCci9VfFyqCNMr51pFOTo_JDkHp5ySKk00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
